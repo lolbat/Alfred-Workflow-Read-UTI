@@ -1,5 +1,7 @@
 # Alfred Workflow - Read UTI data
 
+![Read UTI Workflow icon](ReadUTIicon.jpeg)
+
 ## Introduction
 
 This workflow was written to help find all of the [Universal Type Identifiers](https://developer.apple.com/documentation/uniformtypeidentifiers) associated with a file type on the Mac. You can read the [details of the problem](https://www.alfredforum.com/topic/20024-file-filter-wont-see-markdown-files-if-the-file-types-is-set/#comment-103460) in this thread on the Alfred forum. 
