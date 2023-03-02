@@ -24,4 +24,10 @@ Then enter the file extension that you want to get UTI data for.
 
 The Workflow will run and then copy the data it finds into the clipboard. 
 
+## Updates
+
+### version 1.1
+
+Added error checking to make sure that the extension had a . character and that the commands returned text and weren't empty. 
+
 
