@@ -18,7 +18,7 @@ In order for this Workflow to run you need to have the [duti](http://duti.org) c
 
 Bring up the Alfred window and then enter the keyword for the Workflow. The default is `read uti`. 
 
-![read UTI](read%20UTI.jpg)
+![read UTI](readUTI.jpg)
 
 Then enter the file extension that you want to get UTI data for.
 
